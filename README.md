@@ -1,2 +1,2 @@
 # Caesar_encryption
-Caesar encryption
+Encrypts or decrypts any message with a Caesar cipher
